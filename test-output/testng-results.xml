@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42079" started-at="2017-10-12T19:27:18Z" finished-at="2017-10-12T19:28:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42079" started-at="2017-10-12T19:27:18Z" finished-at="2017-10-12T19:28:00Z">
+      <class name="Jenkin.Browsers">
+        <test-method status="PASS" signature="launchbrowse()[pri:0, instance:Jenkin.Browsers@5f341870]" name="launchbrowse" is-config="true" duration-ms="39706" started-at="2017-10-12T16:27:18Z" finished-at="2017-10-12T16:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowse -->
+        <test-method status="PASS" signature="TestDos()[pri:0, instance:Jenkin.Browsers@5f341870]" name="TestDos" duration-ms="9" started-at="2017-10-12T16:27:58Z" finished-at="2017-10-12T16:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDos -->
+        <test-method status="PASS" signature="TestOne()[pri:0, instance:Jenkin.Browsers@5f341870]" name="TestOne" duration-ms="1" started-at="2017-10-12T16:27:58Z" finished-at="2017-10-12T16:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOne -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:Jenkin.Browsers@5f341870]" name="CloseBrowser" is-config="true" duration-ms="2315" started-at="2017-10-12T16:27:58Z" finished-at="2017-10-12T16:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Jenkin.Browsers -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
